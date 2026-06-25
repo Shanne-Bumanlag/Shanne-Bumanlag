@@ -50,6 +50,6 @@ Currently, I'm focusing on improving my technical skills, learning new tools, an
 * GitHub: https://github.com/Shanne-Bumanlag
 
   
-<p align="center">
-## Thanks for visiting my profile!
-</p>
+
+  
+<h1 align="center"> Thanks for visiting my profile! </h1>
