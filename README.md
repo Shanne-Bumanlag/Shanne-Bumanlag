@@ -12,18 +12,16 @@
 * Interested in Data Science and Information Systems
 * Currently learning Web Development and Programming
 * Passionate about technology and problem-solving
+  
+* Skills
 
-## Skills
-
-* HTML
-* CSS
-* JavaScript (Beginner)
-* Microsoft Office
-* Data Analysis
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql,sqlite,figma" />
+</p>
 
 ## Currently Learning
 
-* GitHub
+* GitHub (more)
 * Database Management
 * Web and App Development
 
