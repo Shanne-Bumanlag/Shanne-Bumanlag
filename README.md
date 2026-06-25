@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="g cl (1)" src="https://github.com/user-attachments/assets/a606f0ed-efc3-496e-9dd1-1f496205edb0" />
+<img width="1500" height="500" alt="g cl (1)" src="https://github.com/user-attachments/assets/a606f0ed-efc3-496e-9dd1-1f496205edb0" /> 
 
 ## ABOUT ME
 
