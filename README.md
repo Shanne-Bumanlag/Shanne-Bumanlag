@@ -12,8 +12,8 @@
 * Interested in Data Science and Information Systems
 * Currently learning Web Development and Programming
 * Passionate about technology and problem-solving
-  
-* Skills
+ 
+## Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql,sqlite,figma" />
@@ -47,4 +47,4 @@
 
 * GitHub: https://github.com/Shanne-Bumanlag
 
-Thank you for visiting my profile!
+## Thank you for visiting my profile!
