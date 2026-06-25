@@ -19,6 +19,13 @@ Currently, I'm focusing on improving my technical skills, learning new tools, an
 * Database Management
 * Web and App Development
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+
 ## CONNECT WITH ME 
 <p align="left">
 <a href="https://www.facebook.com/shanne.bumanlag">
