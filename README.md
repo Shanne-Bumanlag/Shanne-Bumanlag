@@ -1,4 +1,6 @@
-# Hi, I'm Shanne 👋
+<div align="center">
+
+ Shanne Bumanlag
 
 ## About Me
 
@@ -23,6 +25,6 @@
 
 ## Contact
 
-* GitHub: https://github.com/yourusername
+* GitHub: https://github.com/Shanne-Bumanlag
 
 Thank you for visiting my profile!
