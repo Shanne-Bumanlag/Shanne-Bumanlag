@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shanne 👋
 
-<!--
-**Shanne-Bumanlag/Shanne-Bumanlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* BSIS Student
+* Interested in Data Science and Information Systems
+* Currently learning Web Development and Programming
+* Passionate about technology and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* HTML
+* CSS
+* JavaScript (Beginner)
+* Microsoft Office
+* Data Analysis
+
+## Currently Learning
+
+* GitHub
+* Database Management
+* Web and App Development
+
+## Contact
+
+* GitHub: https://github.com/yourusername
+
+Thank you for visiting my profile!
