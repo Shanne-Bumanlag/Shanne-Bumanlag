@@ -1,4 +1,6 @@
-<img width="1920" height="1080" alt="Blue and Black Modern Videography Online Portfolio (1)" src="https://github.com/user-attachments/assets/c54b45d1-2fee-487c-a706-fe6e92095899" />
+<img width="3024" height="4032" alt="57f0ebcf-dff3-48e0-a727-71412bc84093" src="https://github.com/user-attachments/assets/eace8f3d-680f-4554-a72b-18506472e7d6" />
+<img width="1500" height="500" alt="g header" src="https://github.com/user-attachments/assets/ce30b20c-20b7-4dbb-913d-ba04462433ab" />
+
 <p align="center">
  
 
