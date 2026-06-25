@@ -19,8 +19,7 @@ Currently, I'm focusing on improving my technical skills, learning new tools, an
 * Database Management
 * Web and App Development
 
-  ## 🌐 Connect With Me
-
+## CONNECT WITH ME 
 <p align="left">
 <a href="https://www.facebook.com/shanne.bumanlag">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -37,8 +36,10 @@ Currently, I'm focusing on improving my technical skills, learning new tools, an
 
   
 
-## Contact
+## CONTACT
 
 * GitHub: https://github.com/Shanne-Bumanlag
+
+  
 
 ## Thank you for visiting my profile!
