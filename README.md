@@ -1,20 +1,19 @@
 <img width="1500" height="500" alt="g cl (1)" src="https://github.com/user-attachments/assets/a606f0ed-efc3-496e-9dd1-1f496205edb0" />
 
+## ABOUT ME
 
+I'm a BS Information Systems student who enjoys learning about technology and exploring different areas of IT. I'm particularly interested in data science, information systems, and how technology can be used to solve real-world problems.
 
+Currently, I'm focusing on improving my technical skills, learning new tools, and building projects that help me gain practical experience. I'm always looking for opportunities to learn and grow both academically and professionally.
 
-
-
-<img width="1500" height="500" alt="about" src="https://github.com/user-attachments/assets/3e7ad3c2-fefa-4161-aeef-79a15b6beab6" />
-
- 
-<img width="500" height="50" alt="g skills" src="https://github.com/user-attachments/assets/ef9c50c0-8a9c-47ec-982f-75ebcac7aa3c" />
+## SKILLS
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql,sqlite,figma" />
 </p>
 
-<img width="500" height="50" alt="g cl" src="https://github.com/user-attachments/assets/10fef377-77ec-4af1-b52b-a70fb7e0c22c" />
+
+## CURRENTLY LEARNING
 
 * GitHub (more)
 * Database Management
