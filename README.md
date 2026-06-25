@@ -24,9 +24,13 @@ Currently, I'm focusing on improving my technical skills, learning new tools, an
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=Shanne-Bumanlag&show_icons=true&theme=tokyonight" />
-</p>
 
 
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanne-Bumanlag&layout=compact&theme=tokyonight" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanne-Bumanlag&theme=tokyonight" />
 
 ## CONNECT WITH ME 
 <p align="left">
