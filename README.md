@@ -5,15 +5,10 @@
 
 
 
+<img width="1920" height="1080" alt="about" src="https://github.com/user-attachments/assets/3e7ad3c2-fefa-4161-aeef-79a15b6beab6" />
 
-## About Me
-
-* BSIS Student
-* Interested in Data Science and Information Systems
-* Currently learning Web Development and Programming
-* Passionate about technology and problem-solving
  
-## Skills
+<img width="1500" height="400" alt="g skills" src="https://github.com/user-attachments/assets/ef9c50c0-8a9c-47ec-982f-75ebcac7aa3c" />
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql,sqlite,figma" />
