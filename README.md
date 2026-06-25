@@ -8,7 +8,7 @@
 <img width="1500" height="500" alt="about" src="https://github.com/user-attachments/assets/3e7ad3c2-fefa-4161-aeef-79a15b6beab6" />
 
  
-<img width="1500" height="400" alt="g skills" src="https://github.com/user-attachments/assets/ef9c50c0-8a9c-47ec-982f-75ebcac7aa3c" />
+<img width="100" height="100" alt="g skills" src="https://github.com/user-attachments/assets/ef9c50c0-8a9c-47ec-982f-75ebcac7aa3c" />
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql,sqlite,figma" />
