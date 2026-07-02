@@ -22,8 +22,7 @@ Currently, I'm focusing on improving my technical skills, learning new tools, an
 ## GitHub Stats
 
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanne-Bumanlag&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Shanne-Bumanlag&show_icons=true&theme=tokyonight" />
 
 
 
