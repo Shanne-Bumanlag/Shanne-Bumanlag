@@ -5,9 +5,7 @@
 I'm a BS Information Systems student who enjoys learning about technology and exploring different areas of IT. I'm particularly interested in data science, information systems, and how technology can be used to solve real-world problems.
 
 Currently, I'm focusing on improving my technical skills, learning new tools, and building projects that help me gain practical experience. I'm always looking for opportunities to learn and grow both academically and professionally.
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNwcmVlaGNsZXllam45bW04NGpycGxoYmg0aTN5cWdmNWFhMmNobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JUAzEx0zvOeAybPOcx/giphy.gif" width="100%" alt="Animated GIF">
-</p>
+
 ## SKILLS
 
 <p align="left">
