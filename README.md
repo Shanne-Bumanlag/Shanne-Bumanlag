@@ -33,15 +33,20 @@ Currently, I'm focusing on improving my technical skills, learning new tools, an
 
 ## CONNECT WITH ME 
 <p align="left">
-<a href="https://www.facebook.com/shanne.bumanlag">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/shanne-bumanlag-b06891369/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/shanne.bumanlag" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:shannebumanlag@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Email"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/shanne-bumanlag-b06891369/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:shannebumanlag@gmail.com)
 
   
 
