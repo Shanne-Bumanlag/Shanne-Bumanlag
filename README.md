@@ -9,7 +9,7 @@ Currently, I'm focusing on improving my technical skills, learning new tools, an
 ## SKILLS
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql,sqlite,figma" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql,figma" />
 </p>
 
 
